@@ -1,0 +1,25 @@
+.event
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.day, .hour, .minute, .seconde
+{
+    margin-right: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+}
+
+h3
+{
+    text-align: center;
+}
+
+#event
+{
+    text-align: center;
+}
